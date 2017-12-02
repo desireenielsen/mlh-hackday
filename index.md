@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Desiree's MLH Hack Day Page
 
 You can use the [editor on GitHub](https://github.com/desireenielsen/mlh-hackday/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
